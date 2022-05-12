@@ -2,5 +2,11 @@
 int main()
 {
 	printf("Hello World\n");
+	printf(" ###### \n");
+	printf("# O  O #\n");
+	printf("#  {}  #\n");
+	printf("# ____ #\n");
+	printf("#      #\n");
+	printf(" ###### \n");
 	return 0;
 }
